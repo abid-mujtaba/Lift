@@ -2,7 +2,7 @@
 
 Simple EV3 LeJOS project for raising and lifting an object using a ribbon tied to a motor.
 
-## LICENSE
+### LICENSE
 
 Copyright 2013 Abid Hasan Mujtaba
  
